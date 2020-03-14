@@ -22,7 +22,10 @@
     "url": "https://github.com/mauabe/webpack-config/issues"
   },
   "homepage": "https://github.com/mauabe/webpack-config#readme",
-  "dependencies": {},
+  "dependencies": {
+    "acorn": "^7.1.1",
+    "serialize-javascript": "^3.0.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.4.0",
     "@babel/preset-env": "^7.4.2",
